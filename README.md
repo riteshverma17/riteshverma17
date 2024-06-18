@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshverma17&show_icons=true&locale=en" alt="riteshverma17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshverma17&" alt="riteshverma17" /></p>
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
